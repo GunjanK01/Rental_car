@@ -3,10 +3,14 @@
 A modern rental car application that allows users to browse available vehicles and navigate seamlessly to various locations using integrated OpenStreetMap. The app features an intuitive user interface and utilizes Firebase for backend support.
 
 ## Screenshots
+| Onboarding Page                  |
+|--------------------------------|
+| ![rentalonboard](https://github.com/user-attachments/assets/4d0280ee-9e50-48f0-83fa-318f93342df8)   | 
 
-| Onboarding Page                      | Car List                        | Car Details                    | Map Page                     |
+
+| Car List                        | Car Details                    | Map Page                     |
 |--------------------------------|---------------------------------|--------------------------------|------------------------------|
-| ![rentalonboard](https://github.com/user-attachments/assets/4d0280ee-9e50-48f0-83fa-318f93342df8)   | ![Screenshot_20241030_182905_Gallery](https://github.com/user-attachments/assets/f3d71eb4-6d77-4fd7-8316-65cbbacddb06) | ![Screenshot_20241030_182851_Gallery](https://github.com/user-attachments/assets/d5165175-1285-4313-868c-361f29f8e2c7) | ![Screenshot_20241030_182815_Gallery](https://github.com/user-attachments/assets/8aa8d8f5-6969-45ed-9a2c-68e4f920c916) |
+![Screenshot_20241030_182905_Gallery](https://github.com/user-attachments/assets/f3d71eb4-6d77-4fd7-8316-65cbbacddb06) | ![Screenshot_20241030_182851_Gallery](https://github.com/user-attachments/assets/d5165175-1285-4313-868c-361f29f8e2c7) | ![Screenshot_20241030_182815_Gallery](https://github.com/user-attachments/assets/8aa8d8f5-6969-45ed-9a2c-68e4f920c916) |
 
 
 ## Features
